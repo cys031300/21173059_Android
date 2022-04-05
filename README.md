@@ -13,4 +13,9 @@
   <img width="" height="" src="./pic/3주차_메인.png"></img>
 
 ## 5주차 과제
-
+<img width="" height="" src="./pic/실습_1.png"></img>
+<img width="" height="" src="./pic/실습_2.png"></img>
+<img width="" height="" src="./pic/activity main_1.png"></img>
+<img width="" height="" src="./pic/activity main_2.png"></img>
+<img width="" height="" src="./pic/Mainactivity_1.png"></img>
+<img width="" height="" src="./pic/Mainactivity_2.png"></img>
