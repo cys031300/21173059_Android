@@ -21,3 +21,7 @@
 <img width="" height="" src="./pic/Mainactivity_2.JPG"></img>
 
 ## 6주차 과제
+<img width="" height="" src="./pic/6wk-1.JPG"></img>
+<img width="" height="" src="./pic/6wk-2.JPG"></img>
+<img width="" height="" src="./pic/6wk-3.JPG"></img>
+<img width="" height="" src="./pic/6wk-4.JPG"></img>
