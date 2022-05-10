@@ -27,6 +27,6 @@
 <img width="" height="" src="./pic/6wk-4.JPG"></img>
 
 ## 10주차 과제
-  <img width="" height="" src="./pic/플랫폼_1.png"></img>
-  <img width="" height="" src="./pic/플랫폼_2.png"></img>
-  <img width="" height="" src="./pic/플랫폼_3.png"></img>
+  <img width="" height="" src="./pic/플랫폼_1.JPG"></img>
+  <img width="" height="" src="./pic/플랫폼_2.JPG"></img>
+  <img width="" height="" src="./pic/플랫폼_3.JPG"></img>
